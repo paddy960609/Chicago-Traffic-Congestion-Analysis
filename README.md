@@ -54,6 +54,7 @@ Instead of comparing all streets using the same benchmark, a baseline speed was 
 Output:
 
 baseline
+
 3. Slowdown Calculation
 
 Congestion was measured as the percentage reduction from the baseline speed:
@@ -65,6 +66,7 @@ Slowdown (%) =
 Output:
 
 slowdown
+
 4. Segment Summary
 
 Traffic observations were aggregated by roadway segment to calculate:
@@ -76,6 +78,7 @@ Observation counts
 Output:
 
 segment_summary
+
 5. Priority Ranking
 
 Both congestion metrics were normalized to a 0–100 scale using Min-Max normalization.
@@ -147,6 +150,7 @@ Incorporate geographic visualization of roadway segments
 Analyze seasonal and weekday/weekend congestion patterns
 Evaluate alternative weighting schemes for the Priority Score
 Compare congestion trends across multiple years
+
 Skills Demonstrated
 SQL
 Common Table Expressions (CTEs)
