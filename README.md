@@ -197,20 +197,20 @@ Chicago-Traffic-Congestion-Analysis/
 
 ## Executive Overview
 
-![Executive Dashboard](images/dashboard_overview.png)
 
+![alt text](<images/executive summary.png>)
 ---
 
 ## Priority Ranking
 
-![Priority Ranking](images/dashboard_priority.png)
 
+![alt text](<images/priority ranking.png>)
 ---
 
 ## Hourly Congestion Analysis
 
-![Hourly Congestion](images/dashboard_hourly.png)
 
+![alt text](images/dashboard_hourly.png)
 ---
 
 # Skills Demonstrated
